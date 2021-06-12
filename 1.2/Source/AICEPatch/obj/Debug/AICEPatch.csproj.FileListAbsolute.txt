@@ -1,0 +1,5 @@
+c:\GAMES\Rimworld\Mods\Awesome Inventory - Combat Extended patch\1.2\Assemblies\AICEPatch.dll
+c:\GAMES\Rimworld\Mods\Awesome Inventory - Combat Extended patch\1.2\Source\AICEPatch\obj\Debug\AICEPatch.csprojAssemblyReference.cache
+c:\GAMES\Rimworld\Mods\Awesome Inventory - Combat Extended patch\1.2\Source\AICEPatch\obj\Debug\AICEPatch.csproj.CoreCompileInputs.cache
+c:\GAMES\Rimworld\Mods\Awesome Inventory - Combat Extended patch\1.2\Source\AICEPatch\obj\Debug\AICEPatch.csproj.CopyComplete
+c:\GAMES\Rimworld\Mods\Awesome Inventory - Combat Extended patch\1.2\Source\AICEPatch\obj\Debug\AICEPatch.dll

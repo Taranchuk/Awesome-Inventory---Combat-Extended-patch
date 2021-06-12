@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CiLaMyn45D1Sa6+hJsKtV9a7VVztqpBlDemTB1VJccJfyM1/0A7TU+yZp6uUMwO2eVhATXMLIk2olItZ+XVx0A==",
+  "success": true,
+  "projectFilePath": "c:\\GAMES\\Rimworld\\Mods\\Awesome Inventory - Combat Extended patch\\1.2\\Source\\AICEPatch\\AICEPatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vova\\.nuget\\packages\\krafs.rimworld.ref\\1.2.2905\\krafs.rimworld.ref.1.2.2905.nupkg.sha512",
+    "C:\\Users\\Vova\\.nuget\\packages\\lib.harmony\\2.0.4\\lib.harmony.2.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
