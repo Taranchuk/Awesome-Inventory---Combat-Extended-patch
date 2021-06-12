@@ -66,7 +66,7 @@ namespace AICEPatch
                 if (inventory.CanFitInInventory(__result.targetA.Thing, out int count))
                 {
                     Log.Message(__result + " - can fit " + count + " - " + __result.count);
-                    if (count != __result.count)
+                    if (__result.count > count)
                     {
                         __result.count = count;
                     }
